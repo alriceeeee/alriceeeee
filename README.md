@@ -7,9 +7,12 @@
 - 🌐 discord server: [Minimal](https://discord.gg/minimal)
 
 ## My Projects
-- [minimal-bot](https://github.com/alriceeeee/minimal-bot)
-- [minimal-website](https://github.com/alriceeeee/minimal-website)
 - [alriceeeee](https://github.com/alriceeeee/alriceeeee)
+- [About me website ig (its fucking useless)](https://github.com/alriceeeee/StuffLol)
+- [Snake](https://github.com/alriceeeee/Snake-)
+- [Refinement (forked to keep it alive for different projects not hosted here)](https://github.com/alriceeeee/Refinement)
+- [Kavo UI Library (forked for the same reason)](https://github.com/alriceeeee/Kavo-UI-Library)
+- [SM64 online (also forked lol)](https://github.com/alriceeeee/SM64-JS)
 
 ## GitHub Stats
 ![Rice's GitHub stats](https://github-readme-stats.vercel.app/api?username=alriceeeee&show_icons=true&theme=radical)
