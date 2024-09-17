@@ -15,6 +15,6 @@
 ![Rice's GitHub stats](https://github-readme-stats.vercel.app/api?username=alriceeeee&show_icons=true&theme=radical)
 
 ## Languages and Tools
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alriceeeee&layout=compact&theme=vision-friendly-dark)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Lua;HTML;JavaScript;CSS;Python;Node.js;C%2B%2B;C%23;C;PHP;Ruby;Bash;Batch;R;SQL;XML;Assembly)](https://git.io/typing-svg)
 
 Feel free to check out my repositories and don't forget to join my Discord server!
