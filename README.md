@@ -4,7 +4,7 @@
 
 ## About Me
 - 👤 my fucking discord username: alriceee
-- 🌐 discord server: [Minimal](https://discord.gg/minimal)
+- 🌐 discord server: [Minimal](https://discord.gg/minimalhub)
 
 ## My Projects
 - [alriceeeee](https://github.com/alriceeeee/alriceeeee)
